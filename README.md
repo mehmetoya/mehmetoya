@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Mehmet Oya.
 
-I’m an Istanbul based Software Developer. I'm a developer who knows perfectly well that i know nothing 😄 I love doing research and reading. It's hard to keep up with the speed of technology. I am passionate about building software that improves the lives of those around me. I’m motivated by product success and business growth, not technology for technology’s sake ⚡
+I’m an Istanbul based Software Developer. A developer who knows perfectly well that i know nothing 😄 I love doing research and reading. It's hard to keep up with the speed of technology. I am passionate about building software that improves the lives of those around me. I’m motivated by product success and business growth, not technology for technology’s sake ⚡
 
 #### "The beautiful thing about learning is that no one can take it away from you." 
 ##### King of the Blues 🎸 [B.B. King](https://youtu.be/oavp_k4RAkc)
