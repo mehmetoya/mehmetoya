@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi 👋, I'm Mehmet Oya.
+
+I’m an Istanbul based Software Developer. I'm a developer who knows perfectly well that i know nothing 😄 I love research and reading. It's hard to keep up with the speed of technology. The beautiful thing about learning is that no one can take it away from you.**"King of the Blues"**  [B.B. King](https://youtu.be/oavp_k4RAkc)
+
+I am passionate about building software that improves the lives of those around me. I’m motivated by product success and business growth, not technology for technology’s sake.
+
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mehmetoya/)](https://www.linkedin.com/in/mehmetoya/) 
 [![GitHub Follow Badge](https://img.shields.io/github/followers/mehmetoya?label=follow&style=social)](https://github.com/mehmetoya)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white&link=https://twitter.com/mehmetoya)](https://twitter.com/mehmetoya) 
