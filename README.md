@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mehmetoya/)](https://www.linkedin.com/in/mehmetoya/) 
+[![GitHub Follow Badge](https://img.shields.io/github/followers/mehmetoya?label=follow&style=social)](https://github.com/mehmetoya)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white&link=https://twitter.com/mehmetoya)](https://twitter.com/mehmetoya) 
+[![Spotify Badge](https://img.shields.io/badge/-Spotify-green?style=flat&logo=Spotify&logoColor=white&link=https://open.spotify.com/user/thebluesland)](https://open.spotify.com/user/thebluesland) 
 <!--
 **mehmetoya/mehmetoya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
